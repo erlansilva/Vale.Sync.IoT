@@ -1,0 +1,4 @@
+#define WIFI_PREFERENCE_NAME "wifi"
+#define CONFIG_PREFERENCE_NAME "config"
+#define SERVICE_UUID "d58005c3-3476-4d7e-8907-69d14cae389f"
+#define CHARACTERISTIC_UUID "efaca7c1-ed42-4a78-ab8d-779f68ed83b0"
