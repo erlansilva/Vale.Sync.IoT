@@ -4,7 +4,6 @@
 
 void setup() {
     Serial.begin(115200);
-    Serial.println("Teste");
     Bluetooth ble;
     ble.Init();    
 }
